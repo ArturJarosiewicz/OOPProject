@@ -16,7 +16,7 @@ namespace _59354_2_3.AJ_59354_demo
 
         private (int, int)? AJ_59354_swapping;
 
-        private int AJ_59354_i = 0;
+        private int AJ_59354_i = 0; 
 
         public AJ_59354_formDemo()
         {
